@@ -50,7 +50,7 @@ If you encounter any bugs, have questions, or would like to request new features
 
 For general inquiries or more information about our company, please reach out to us at:
 
-- Website: [https://www.abstergo.com](https://www.abstergo.com)
+- Website: [https://www.abstergo.com](https://main.d23488lfbc7m2.amplifyapp.com/)
 - Email: contact@abstergo.com
 - Phone: +1 123-456-7890
 
