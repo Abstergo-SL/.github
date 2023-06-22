@@ -13,7 +13,7 @@ Abstergo is a leading gaming company focused on innovation and cutting-edge solu
 This repository serves as a central hub for storing and managing our company's software projects, libraries, and documentation. Here you will find the latest code, resources, and guidelines related to our products and services.
 
 ## Company project basic structure
-![Basic Game Scheme](https://app.diagrams.net/#G1e3WDDDFCRF3PpKPLJIICFo5pYyVr8EDl)
+[Basic Game Scheme](https://app.diagrams.net/#G1e3WDDDFCRF3PpKPLJIICFo5pYyVr8EDl)
 
 [//]: # (//## Getting Started)
 [//]: # (//)
