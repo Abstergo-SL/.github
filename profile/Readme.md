@@ -1,6 +1,6 @@
 # Abstergo
 
-![Abstergo Logo]([https://example.com/abstergo-logo.png](https://avatars.githubusercontent.com/u/116197509?s=200&v=4))
+![Abstergo Logo](https://avatars.githubusercontent.com/u/116197509?s=200&v=4)
 
 Welcome to the official repository of Abstergo! This Readme file provides an overview of our company and guidelines for using our repository effectively.
 
