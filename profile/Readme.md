@@ -1,6 +1,6 @@
 # Abstergo
 
-![Abstergo Logo](https://example.com/abstergo-logo.png)
+![Abstergo Logo]([https://example.com/abstergo-logo.png](https://avatars.githubusercontent.com/u/116197509?s=200&v=4))
 
 Welcome to the official repository of Abstergo! This Readme file provides an overview of our company and guidelines for using our repository effectively.
 
@@ -13,7 +13,7 @@ Abstergo is a leading gaming company focused on innovation and cutting-edge solu
 This repository serves as a central hub for storing and managing our company's software projects, libraries, and documentation. Here you will find the latest code, resources, and guidelines related to our products and services.
 
 ## Company project basic structure
-![Basic Game Scheme](/not_fount/404.png)
+![Basic Game Scheme](https://avatars.githubusercontent.com/u/116197509?s=200&v=4)
 
 [//]: # (//## Getting Started)
 [//]: # (//)
